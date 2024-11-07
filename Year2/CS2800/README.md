@@ -13,4 +13,4 @@
 ![alt text](Year2\CS2800\asdasdasd.PNG)
 
 ## Check it works by seeing if you have javadoc violations
-![alt text](Year2\CS2800\nojavadoc.PNG)
+![alt text](nojavadoc.PNG)
