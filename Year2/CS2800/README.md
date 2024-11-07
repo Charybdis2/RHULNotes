@@ -6,8 +6,8 @@
 ## Download the google checkstyle file and add it to the repo
 ![alt text](Year2\CS2800\project.PNG)
 
-## Set as the config 
-![alt text](Year2\CS2800\set config.PNG)
+## Set as the config
+![alt text](Year2\CS2800\setconfig.PNG)
 
 ## Settings should look like this
 ![alt text](Year2\CS2800\asdasdasd.PNG)
