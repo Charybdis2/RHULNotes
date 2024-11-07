@@ -4,7 +4,7 @@
 ![alt text](Year2\CS2800\checkstyle.PNG)
 
 ## Download the google checkstyle file and add it to the repo
-Year2/CS2800/project.PNG
+!(Year2/CS2800/project.PNG)
 
 ## Set as the config
 ![alt text](Year2\CS2800\setconfig.PNG)
